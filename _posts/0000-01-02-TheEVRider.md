@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Anyone would think you like Powerpoint!
 Use the left arrow to go back!
